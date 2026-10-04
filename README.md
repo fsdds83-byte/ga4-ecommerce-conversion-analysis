@@ -17,11 +17,20 @@ GA4 电商转化分析项目，基于 BigQuery Public Dataset，使用 SQL 完�
 
 Power BI Dashboard 共 5 页：
 
-1. Executive Overview
-2. Customer & Funnel Analysis
-3. Product Performance
-4. Acquisition & Audience
-5. Organic Search Diagnosis
+### 1. Executive Overview
+![Executive Overview](dashboard/01_executive_overview.png)
+
+### 2. Customer & Funnel Analysis
+![Customer & Funnel Analysis](dashboard/02_customer_funnel_analysis.png)
+
+### 3. Product Performance
+![Product Performance](dashboard/03_product_performance.png)
+
+### 4. Acquisition & Audience
+![Acquisition & Audience](dashboard/04_acquisition_audience.png)
+
+### 5. Organic Search Diagnosis
+![Organic Search Diagnosis](dashboard/05_organic_search_diagnosis.png)
 
 ## Tech Stack
 
